@@ -1,0 +1,7 @@
+#INDENT#
+.load('#selstart#/path/to/file#selend#',{
+    <#property#>: '<#value#>'<#?#>
+},
+ function(){
+    <#Stuff to do after the page is loaded#>
+});

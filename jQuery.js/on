@@ -1,0 +1,4 @@
+#INDENT#
+on('<#event name#>', '<#selector#>', <#eventData#>, function(<#event#>) {
+    <#Act on the event#>
+});

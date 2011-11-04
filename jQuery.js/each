@@ -1,0 +1,4 @@
+#INDENT#
+each(function(index) {
+    #selstart#this.innerHTML = this + " is the element, " + index + " is the position";#selend#
+});

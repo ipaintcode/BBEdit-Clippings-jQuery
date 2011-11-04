@@ -1,0 +1,4 @@
+#INDENT#
+ajaxComplete(function(event, xhr, settings) {
+    #selstart#executes whenever an AJAX request completes#selend#
+});

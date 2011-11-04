@@ -1,0 +1,4 @@
+#INDENT#
+attr({
+  <#attribute#>: '<#value#>'<#?#>
+})<#?#>

@@ -1,0 +1,4 @@
+#INDENT#
+jQuery(document).ready(function() {
+	#selstart#// Stuff to do as soon as the DOM is ready;#selend#
+});

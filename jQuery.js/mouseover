@@ -1,0 +1,4 @@
+#INDENT#
+mouseover(#selstart#function(<#event#>) {
+    <#Act on the event#>
+}#selend#);

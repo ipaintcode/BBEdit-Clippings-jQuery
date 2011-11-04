@@ -1,0 +1,4 @@
+#INDENT#
+select(#selstart#function(<#event#>) {
+    <#Act on the event#>
+}#selend#);

@@ -1,0 +1,4 @@
+#INDENT#
+live('#selstart#event type(s)#selend#', function(<#event#>) {
+    <#Stuff to do *after* the animation takes place#>
+});

@@ -1,0 +1,4 @@
+#INDENT#
+ajaxSend(function(#selstart#event, xhr, settings#selend#) {
+    <#stuff to do when an AJAX request is sent#>
+});

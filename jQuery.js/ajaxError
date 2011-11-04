@@ -1,0 +1,4 @@
+#INDENT#
+ajaxError(function(#selstart#event, xhr, settings, thrownError#selend#) {
+    <#stuff to do when an AJAX call returns an error#>
+});

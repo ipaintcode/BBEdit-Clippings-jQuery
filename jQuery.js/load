@@ -1,0 +1,4 @@
+#INDENT#
+load(#selstart#function() {
+    <#Act on the event#>
+}#selend#);

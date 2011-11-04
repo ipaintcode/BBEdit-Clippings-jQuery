@@ -1,0 +1,4 @@
+#INDENT#
+slideUp('#selstart#slow/400/fast#selend#', function() {
+    <#Stuff to do *after* the animation takes place#>
+});

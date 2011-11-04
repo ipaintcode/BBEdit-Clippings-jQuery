@@ -1,0 +1,4 @@
+#INDENT#
+submit(#selstart#function(<#event#>) {
+    <#Act on the event#>
+}#selend#);
