@@ -1,8 +1,8 @@
 BBEdit Clippings for jQuery
 ===========================
 
-Version 0.1
-===========
+Version 0.1 | For use with jQuery (supports 1.7) library http://jquery.com/
+===========================================================================
 
 * Inspired by the TextMate bundle maintained by Karl Swedberg: https://github.com/kswedberg/jquery-tmbundle
 * Not all "jQuery and $" clippings have been created, but will be added asap (currently there are 167 clippings).
