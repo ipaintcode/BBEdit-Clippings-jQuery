@@ -1,0 +1,21 @@
+BBEdit Clippings for jQuery
+===========================
+
+Version 0.1
+===========
+
+* Inspired by the TextMate bundle maintained by Karl Swedberg: https://github.com/kswedberg/jquery-tmbundle
+* Not all "jQuery and $" clippings have been created, but will be added asap (currently there are 167 clippings).
+* Heads up, these clippings are W.I.P. so please report any issues you find and I will update ASAP.
+
+Installation
+------------
+
+Copy the jQuery.php folder in to your
+~/Library/Application Support/BBEdit/Clippings
+folder and restart BBEdit.
+
+Please send all request for bugs fixes or recommendations to:
+-------------------------------------------------------------
+
+https://github.com/ipaintcode/BBEdit-Clippings-jQuery/issues
