@@ -11,7 +11,7 @@ Version 0.1 | For use with jQuery (supports 1.7) library http://jquery.com/
 Installation
 ------------
 
-Copy the jQuery.php folder in to your
+Copy the jQuery.js folder in to your
 ~/Library/Application Support/BBEdit/Clippings
 folder and restart BBEdit.
 
